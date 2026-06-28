@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-lab_07/structured_predictions.db
+lab-07-structured-data-modeling/structured_predictions.db
