@@ -18,6 +18,8 @@ real-time-analytics-labs/
 |-- lab-04-spark-streaming-kafka/
 |-- lab-05-flask-rest-api/
 |-- lab-06-fastapi-fraud-detection/
+|-- lab_07/
+|-- lab_08/
 |-- homework/
 |   |-- homework-01-kafka-velocity-consumer/
 |   `-- homework-02-spark-transactions/
@@ -35,6 +37,8 @@ real-time-analytics-labs/
 | `lab-04-spark-streaming-kafka` | Spark Structured Streaming with Kafka | Kafka-backed streaming examples with raw and text topics, producers, and Spark integration. |
 | `lab-05-flask-rest-api` | Flask and REST APIs | Introductory API examples with Flask, HTTP routes, request handling, and service testing from notebooks. |
 | `lab-06-fastapi-fraud-detection` | FastAPI and model serving | Simple fraud-detection model training and API serving with FastAPI. |
+| `lab_07` | Structured data: NumPy, Pandas, PyTorch, SQLite | Notes and a compact example for working with tabular data, tensors, simple classification, and storing predictions in SQLite. |
+| `lab_08` | Unstructured data: tensors, images, text, pretrained models | Notes and lightweight examples for representing images and text as tensors before using pretrained model pipelines. |
 | `homework` | Homework assignments | Course homework materials aligned with the lab sequence. |
 
 ## Folder Naming
@@ -47,6 +51,8 @@ homework-<number>-<topic>
 ```
 
 This makes the repository easier to navigate outside the original Polish classroom context while preserving the original course order.
+
+The additional `lab_07` and `lab_08` folders keep the numbering requested for the later course sessions.
 
 ## Prerequisites
 
@@ -69,6 +75,8 @@ For Kafka and Spark labs, follow the runtime setup described in the RTA2026 cour
 4. Use `lab-04-spark-streaming-kafka` to combine Spark Structured Streaming with Kafka topics.
 5. Review `lab-05-flask-rest-api` to understand how analytical results can be exposed through HTTP APIs.
 6. Finish with `lab-06-fastapi-fraud-detection` for a compact example of real-time model serving.
+7. Use `lab_07` to connect structured tabular data with tensors, simple models, and SQLite persistence.
+8. Use `lab_08` to review how unstructured data such as images and text are represented before model inference.
 
 ## Running the Materials
 
