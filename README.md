@@ -50,10 +50,6 @@ lab-<number>-<topic>
 homework-<number>-<topic>
 ```
 
-This makes the repository easier to navigate outside the original Polish classroom context while preserving the original course order.
-
-Labs 07 and 08 follow the same descriptive naming convention as the earlier lab folders.
-
 ## Prerequisites
 
 The exact runtime depends on the lab. In general, the materials assume a Python/Jupyter environment with selected components from the RTA2026 course stack:
