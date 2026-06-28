@@ -41,15 +41,6 @@ real-time-analytics-labs/
 | `lab-08-unstructured-data-tensors` | Unstructured data: tensors, images, text, pretrained models | Notes and lightweight examples for representing images and text as tensors before using pretrained model pipelines. |
 | `homework` | Homework assignments | Course homework materials aligned with the lab sequence. |
 
-## Folder Naming
-
-Folder names use English, lowercase, descriptive slugs:
-
-```text
-lab-<number>-<topic>
-homework-<number>-<topic>
-```
-
 ## Prerequisites
 
 The exact runtime depends on the lab. In general, the materials assume a Python/Jupyter environment with selected components from the RTA2026 course stack:
